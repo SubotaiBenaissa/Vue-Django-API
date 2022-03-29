@@ -12,13 +12,13 @@
                       </li>
                   </ul>
               </div>
-
           </div>
       </nav>
   </div>
 </template>
 
 <script>
+
 export default {
     name: 'NavbarView'
 }
