@@ -32,9 +32,13 @@ export default {
   name: 'PostsView',
 
   data() {
+
     return {
-      APIData: []
+      APIData: [],
+      title: '',
+      content: '',
     }
+
   },
 
   components: {
